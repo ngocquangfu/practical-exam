@@ -1,0 +1,14 @@
+E:\c#\project\project\bin\Debug\project.exe
+E:\c#\project\project\bin\Debug\project.pdb
+E:\c#\project\project\obj\Debug\project.Form1.resources
+E:\c#\project\project\obj\Debug\project.Properties.Resources.resources
+E:\c#\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\c#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\c#\project\project\obj\Debug\project.exe
+E:\c#\project\project\obj\Debug\project.pdb
+E:\c#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\c#\project\project\bin\Debug\project.exe.config
+E:\c#\project\project\bin\Debug\ClosedXML.dll
+E:\c#\project\project\bin\Debug\DocumentFormat.OpenXml.dll
+E:\c#\project\project\bin\Debug\ClosedXML.xml
+E:\c#\project\project\obj\Debug\project.csproj.CopyComplete

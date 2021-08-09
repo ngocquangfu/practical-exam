@@ -1,0 +1,8 @@
+1
+2
+3
+
+OUTPUT:
+Not a triangle
+mark:
+0.25
